@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Signature tomato pasta</title>
+  <desc id="desc">A warm, illustrated plate of tomato pasta with basil on a deep green background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10241d"/><stop offset=".55" stop-color="#274838"/><stop offset="1" stop-color="#0e1d18"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d6a05e" stop-opacity=".28"/><stop offset="1" stop-color="#d6a05e" stop-opacity="0"/></radialGradient>
+    <radialGradient id="plate"><stop stop-color="#fff5d9"/><stop offset=".76" stop-color="#e6d7b8"/><stop offset=".94" stop-color="#c6b18d"/><stop offset="1" stop-color="#8a7a5d"/></radialGradient>
+    <radialGradient id="sauce"><stop stop-color="#d74a2e"/><stop offset=".7" stop-color="#a92d20"/><stop offset="1" stop-color="#6d231a"/></radialGradient>
+    <linearGradient id="noodle" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe7a1"/><stop offset=".5" stop-color="#d89e48"/><stop offset="1" stop-color="#f8d47c"/></linearGradient>
+    <radialGradient id="tomato"><stop stop-color="#ff7952"/><stop offset=".7" stop-color="#d72d21"/><stop offset="1" stop-color="#811a17"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="850" cy="380" r="540" fill="url(#glow)"/>
+  <g opacity=".12" fill="none" stroke="#d2c49b"><path d="M0 150Q260 80 480 170T960 140T1300 120"/><path d="M-30 690Q260 600 500 710T1000 680T1300 710"/><circle cx="1040" cy="130" r="170"/><circle cx="1040" cy="130" r="195"/></g>
+  <ellipse cx="780" cy="665" rx="395" ry="62" fill="#000" opacity=".42" filter="url(#shadow)"/>
+  <g transform="rotate(-9 760 420)">
+    <ellipse cx="760" cy="425" rx="405" ry="304" fill="#09120f" opacity=".5"/>
+    <ellipse cx="760" cy="397" rx="400" ry="305" fill="url(#plate)"/>
+    <ellipse cx="760" cy="397" rx="350" ry="257" fill="#fbf1d7" stroke="#c0aa82" stroke-width="5"/>
+    <ellipse cx="760" cy="398" rx="307" ry="217" fill="url(#sauce)"/>
+    <g fill="none" stroke-linecap="round">
+      <path d="M545 395C625 285 828 300 915 380S840 533 720 491 600 360 722 350 876 442 786 466 630 397 690 361 834 391 801 426 687 411 711 387 790 398 775 413 736 404 750 394" stroke="#7f2e19" stroke-width="39" opacity=".7"/>
+      <path d="M545 385C625 275 828 290 915 370S840 523 720 481 600 350 722 340 876 432 786 456 630 387 690 351 834 381 801 416 687 401 711 377 790 388 775 403 736 394 750 384" stroke="url(#noodle)" stroke-width="25"/>
+      <path d="M580 455C640 520 820 506 862 428S770 310 694 349 686 453 764 451 861 391 814 366" stroke="#fff0b8" stroke-width="9" opacity=".8"/>
+      <path d="M617 322C709 273 836 338 837 392S749 478 682 429 718 354 771 378 790 420 756 419" stroke="#e7b75a" stroke-width="10" opacity=".9"/>
+    </g>
+    <g fill="url(#tomato)" stroke="#8a2419" stroke-width="4">
+      <circle cx="627" cy="350" r="38"/><circle cx="850" cy="335" r="33"/><circle cx="894" cy="443" r="38"/><circle cx="692" cy="479" r="33"/><circle cx="780" cy="320" r="25"/><circle cx="574" cy="421" r="24"/>
+    </g>
+    <g fill="#d7e1a5" opacity=".78"><path d="M608 342l18-9 7 20-16 12z"/><path d="M837 325l16-7 8 18-14 11z"/><path d="M881 434l15-7 9 17-14 13z"/><path d="M682 472l14-5 8 17-13 10z"/></g>
+    <g fill="#376b3e" stroke="#1d4a2b" stroke-width="3">
+      <path d="M708 346C655 313 650 270 687 264 727 275 736 315 708 346Z"/><path d="M710 345C752 286 803 287 808 320 789 359 748 369 710 345Z"/><path d="M780 409C798 350 845 342 859 373 854 417 817 436 780 409Z"/><path d="M650 430C596 413 586 375 616 363 653 378 670 408 650 430Z"/><path d="M824 469C840 425 882 420 892 447 883 482 851 492 824 469Z"/>
+    </g>
+    <g fill="none" stroke="#a7c27d" stroke-width="3" opacity=".75"><path d="M690 277l18 61M798 301l-75 41M845 357l-58 50M612 373l39 49M881 439l-52 30"/></g>
+    <g fill="#f6dba0"><circle cx="741" cy="348" r="5"/><circle cx="835" cy="410" r="4"/><circle cx="673" cy="394" r="4"/><circle cx="751" cy="478" r="5"/><circle cx="855" cy="360" r="4"/><circle cx="603" cy="396" r="4"/><circle cx="802" cy="446" r="5"/></g>
+  </g>
+  <g fill="#e7bd78" opacity=".8"><circle cx="150" cy="190" r="3"/><circle cx="210" cy="240" r="2"/><circle cx="1010" cy="590" r="3"/><circle cx="1070" cy="530" r="2"/><circle cx="320" cy="630" r="2"/><circle cx="1090" cy="245" r="3"/></g>
+</svg>

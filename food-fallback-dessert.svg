@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Illustrated restaurant dish">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10271e"/><stop offset=".55" stop-color="#2c5140"/><stop offset="1" stop-color="#10231b"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#d6ad76" stop-opacity=".28"/><stop offset="1" stop-color="#d6ad76" stop-opacity="0"/></radialGradient>
+ <radialGradient id="plate"><stop stop-color="#fffdf2"/><stop offset=".78" stop-color="#f3e8d0"/><stop offset=".93" stop-color="#d7c5a5"/><stop offset="1" stop-color="#8d7c60"/></radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe8a6"/><stop offset=".5" stop-color="#d99e48"/><stop offset="1" stop-color="#f5d07a"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7657"/><stop offset=".52" stop-color="#db3325"/><stop offset="1" stop-color="#8d2019"/></linearGradient>
+ <linearGradient id="meat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b4a31"/><stop offset=".45" stop-color="#5c2a20"/><stop offset="1" stop-color="#a95738"/></linearGradient>
+ <linearGradient id="greens" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ba75a"/><stop offset="1" stop-color="#285c36"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/><circle cx="800" cy="300" r="520" fill="url(#glow)"/>
+<g fill="none" stroke="#e3c58c" opacity=".11"><circle cx="160" cy="170" r="190"/><circle cx="160" cy="170" r="220"/><path d="M0 690Q260 610 480 700T920 690T1260 710"/></g>
+<ellipse cx="610" cy="620" rx="340" ry="46" fill="#020806" opacity=".46" filter="url(#shadow)"/>
+<g transform="rotate(-5 600 390)"><ellipse cx="600" cy="400" rx="352" ry="238" fill="#07130e" opacity=".6"/><ellipse cx="600" cy="378" rx="348" ry="232" fill="url(#plate)"/><ellipse cx="600" cy="375" rx="305" ry="195" fill="#fff9e9" stroke="#cdbb98" stroke-width="5"/><ellipse cx="600" cy="375" rx="270" ry="164" fill="#eee2c9"/></g>
+<g id="dish-art"><g><path d="M430 455L710 455L770 310L500 310Z" fill="#e9bc79" stroke="#a66b3b" stroke-width="7"/><path d="M430 430L710 430L752 332L500 332Z" fill="#fff1d7"/><path d="M430 400L710 400L740 352L500 352Z" fill="#b86d4d"/><path d="M430 370L710 370L728 372L500 372Z" fill="#f7d6a2"/><path d="M500 310L770 310L710 455L430 455Z" fill="#efdbaf" stroke="#c49b67" stroke-width="6"/><path d="M500 310L770 310L710 345L430 345Z" fill="#fff0d2"/><path d="M475 320Q600 273 730 318" fill="none" stroke="#a84b36" stroke-width="20" stroke-linecap="round"/><g fill="url(#red)" stroke="#8e2119" stroke-width="4"><path d="M560 295Q530 258 556 245Q584 252 575 276Q600 247 621 270Q633 299 590 316Z"/><path d="M655 299Q630 269 650 258Q674 260 674 282Q695 264 711 285Q714 306 680 316Z"/></g><g fill="#3d773f"><path d="M575 256Q548 225 577 220Q596 237 575 256Z"/><path d="M577 256Q605 223 621 244Q603 264 577 256Z"/><path d="M675 266Q651 233 680 232Q698 249 675 266Z"/></g><g fill="#f2d38c"><circle cx="490" cy="464" r="5"/><circle cx="690" cy="475" r="5"/><circle cx="740" cy="384" r="4"/></g></g></g>
+<g fill="#f0cb8e" opacity=".82"><circle cx="115" cy="315" r="4"/><circle cx="1030" cy="190" r="3"/><circle cx="1005" cy="590" r="4"/><circle cx="205" cy="625" r="3"/><circle cx="1080" cy="450" r="2"/><circle cx="360" cy="180" r="2"/></g>
+</svg>
